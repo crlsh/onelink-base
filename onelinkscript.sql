@@ -1,0 +1,1 @@
+SELECT * FROM bs68rm3rttjz4xqqxtkf.redes;
